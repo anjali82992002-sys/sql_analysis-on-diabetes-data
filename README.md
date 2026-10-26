@@ -67,6 +67,6 @@ Project 2's predictive-modelling work.
 
 ### 1.6 Key findings from Statistical Analysis
 
-1- Prior inpatient history is the strongest signal associated with 30-day readmission -- patients readmitted within 30 days averaged 1.22 prior inpatient visits vs. 0.38 for those never readmitted (Cohen's d = 0.746, a medium effect -- the largest found anywhere in this analysis).
-2- Gender, age, race, A1C, and glucose testing were all "statistically significant" (p<0.001, N>100k) but every one had a negligible-to-small Cramer's V (0.016-0.062); diabetesMed had the largest association found, at V=0.062 -- still below the conventional "small effect" threshold.
-3- A descriptive weight/dosage-adjustment pattern did not survive formal testing (chi-square p=0.761) -- the "overweight/obese" proxy bucket has only 21 usable prescription-level records, illustrating why small subgroup patterns need statistical testing before being treated as real.
+1. Prior inpatient history is the strongest signal associated with 30-day readmission -- patients readmitted within 30 days averaged 1.22 prior inpatient visits vs. 0.38 for those never readmitted (Cohen's d = 0.746, a medium effect -- the largest found anywhere in this analysis).
+2. Gender, age, race, A1C, and glucose testing were all "statistically significant" (p<0.001, N>100k) but every one had a negligible-to-small Cramer's V (0.016-0.062); diabetesMed had the largest association found, at V=0.062 -- still below the conventional "small effect" threshold.
+3. A descriptive weight/dosage-adjustment pattern did not survive formal testing (chi-square p=0.761) -- the "overweight/obese" proxy bucket has only 21 usable prescription-level records, illustrating why small subgroup patterns need statistical testing before being treated as real.
