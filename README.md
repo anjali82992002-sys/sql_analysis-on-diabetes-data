@@ -1,4 +1,4 @@
-# sql & statistical analysis-on-diabetes-data
+# SQL & Statistical Analysis-on-diabetes-data
 SQL &amp; statistical analysis of 130-US-hospitals diabetes encounters. 
 
 In a large real-world hospital-encounter dataset for diabetic patients this analysis answers following questions: 
